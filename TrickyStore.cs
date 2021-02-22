@@ -19,6 +19,7 @@ namespace TrickingLibrary
         {
             trick.Id = _tricks.Count + 1;
             _tricks.Add(trick);
+            
         }
     }
 }
